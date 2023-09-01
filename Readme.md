@@ -1,10 +1,11 @@
+# Fullstack Engineering Reference Sheet
 
 ## Table of contents
 
 - [What is Full stack devlopment?](#What-is-Full-stack-devlopment?)
-  - [HTML](#HTML)
-  - [CSS](#CSS)
-  - [Javascript](#JavaScript)
+- [HTML](#HTML)
+- [CSS](#CSS)
+- [Javascript](#JavaScript)
 
     ## What is Full stack devlopment?
 
