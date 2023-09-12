@@ -44,3 +44,36 @@ The paragraph element is used to create a paragraph in HTML. It is used to write
 ```
 This outputs the following result:
 <p>This is a paragraph</p>
+
+### The List Element in HTML
+Let's say you want to create a list of items, you can use the list element in HTML to create a list. There are two types of lists in HTML, they are ordered lists and unordered lists. Ordered lists are lists that are numbered and unordered lists are lists that are not numbered. Here is an example of how to use the list element in HTML:
+
+```html 
+<h2>Ordered List</h2>
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>  
+
+<h2>Unordered List</h2>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+```
+This outputs the following result:
+<h2>Ordered List</h2>
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
+<h2>Unordered List</h2>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
