@@ -81,8 +81,9 @@ This outputs the following result:
 The image element is used to add an image to a website. Here is an example of how to use the image element in HTML:
 
 ```html
-<img src="https://images.unsplash.com/photo-1622837137196-3b5b8a5b5b0f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="This is an image">
+<img src="https://images.pexels.com/photos/667211/pexels-photo-667211.jpeg" alt="This is an image">
 ```
 This outputs the following result:
-<img src="https://images.unsplash.com/photo-1622837137196-3b5b8a5b5b0f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="This is an image">
+<img src="https://images.pexels.com/photos/667211/pexels-photo-667211.jpeg" alt="This is an image">
+
 
