@@ -77,3 +77,12 @@ This outputs the following result:
     <li>Item 3</li>
 </ul>
 
+### The Image Element in HTML
+The image element is used to add an image to a website. Here is an example of how to use the image element in HTML:
+
+```html
+<img src="https://images.unsplash.com/photo-1622837137196-3b5b8a5b5b0f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="This is an image">
+```
+This outputs the following result:
+<img src="https://images.unsplash.com/photo-1622837137196-3b5b8a5b5b0f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="This is an image">
+
