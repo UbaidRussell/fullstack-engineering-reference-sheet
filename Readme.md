@@ -86,4 +86,13 @@ The image element is used to add an image to a website. Here is an example of ho
 This outputs the following result:
 <img src="https://images.pexels.com/photos/667211/pexels-photo-667211.jpeg" alt="This is an image">
 
+### The Anchor Element in HTML
+The anchor element is used to create a link in HTML. Here is an example of how to use the anchor element in HTML:
+
+```html
+<a href="https://www.google.com">This is a link</a>
+```
+This outputs the following result:
+<a href="https://www.google.com">This is a link</a>
+
 
