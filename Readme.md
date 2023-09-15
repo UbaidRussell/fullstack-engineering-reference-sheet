@@ -15,6 +15,30 @@
 
 HTML is a markup language that is used to create the structure of a website. HTML stands for Hyper Text Markup Language. This language is used to make the skeleton of a website. It is the foundation of all websites on the internet. It creates things like the headings, paragraphs, lists, tables, forms, images, videos, audios, links, buttons and much more. HTML is the first thing that you need to learn in order to become a full stack engineer. HTML is a very easy  to learn and it is very easy to understand and use. When a website is made with nothing but HTML, it looks like [this](https://info.cern.ch/hypertext/WWW/TheProject.html): ![This is the first website that was ever created and it was made with HTML only.](./images/Webiste%20with%20only%20HTML.png)
 
+### The HTML Document
+
+The HTML document is the main file of the website. It is the file that contains all the HTML code of the website when getting started with HTML, the first thing you need to do is create an HTML document. Here is an example of an HTML document:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph</p>
+</body>
+</html>
+```
+What's happening here?
+- The first line of the code is the doctype declaration. This tells the browser that this is an HTML document.
+- The second line of the code is the html element. This is the root element of the HTML document. This element contains all the other elements of the HTML document.
+- The third line of the code is the head element. This element contains all the meta data of the HTML document. The meta data is the data that is not visible to the user. It contains things like the title of the document, the character set of the document and much more.
+- The fourth line of the code is the title element. This element contains the title of the document. The title of the document is the text that is displayed on the tab of the browser.
+- The fifth line of the code is the body element. This element contains all the visible elements of the HTML document. It contains things like the headings, paragraphs, lists, tables, forms, images, videos, audios, links, buttons and much more.
+
 ### The heading Element in HTML
 As you can see in the image above, the first thing we see on the page before everything is the heading, in HTML we use the heading element to create a heading. There are 6 different heading elements in HTML. They are h1, h2, h3, h4, h5 and h6. The h1 element is the biggest heading and the h6 element is the smallest heading. The h1 element is used for the main heading of the page and the h2 element is used for the sub heading of the page and so on. Here is an example of how to use the heading element in HTML:
 
