@@ -20,15 +20,17 @@ HTML is a markup language that is used to create the structure of a website. HTM
 The HTML document is the main file of the website. It is the file that contains all the HTML code of the website when getting started with HTML, the first thing you need to do is create an HTML document. Here is an example of an HTML document:
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html> <!--First Line-->
+<html lang="en"> <!--Second Line-->
+<head> <!--Third Line-->
+    <!--This is where we out our meta data-->
     <meta charset="UTF-8">
-    <title>My Website</title>
+    <title>My Website</title> <!--Fourth Line-->
 </head>
-<body>
+<body> <!--Fifth Line-->
+    <!--This is where we put our HTML elements-->
     <h1>This is a heading</h1>
-    <p>This is a paragraph</p>
+    <p>This is a paragraph</p> 
 </body>
 </html>
 ```
