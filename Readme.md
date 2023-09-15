@@ -18,7 +18,7 @@ HTML is a markup language that is used to create the structure of a website. HTM
 <details>
 <summary width="80vw"> You can use this dropdown to direct yourself to the section of HTML you want to learn about.</summary>
 
-- [The HTML Document](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-html-documentz)
+- [The HTML Document](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-html-document)
 - [The heading Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-heading-element-in-html)
 </details>
 
