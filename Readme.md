@@ -20,11 +20,10 @@ HTML is a markup language that is used to create the structure of a website. HTM
 <br>
     You can use this to direct yourself to the section you want to learn about.
 <br><br>
-<pre>
 
-- [The HTML Document](### The-HTML-Document)
-- [The heading Element in HTML](### The-heading-Element-in-HTML)
-</pre>
+- [The HTML Document](###The-HTML-Document)
+- [The heading Element in HTML](###The-heading-Element-in-HTML)
+
 </details>
 
 ### The HTML Document
