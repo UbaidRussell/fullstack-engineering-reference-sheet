@@ -21,6 +21,7 @@ HTML is a markup language that is used to create the structure of a website. HTM
 - [The HTML Document](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-html-document)
 - [The heading Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-heading-element-in-html)
 - [The Paragraph Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-paragraph-element-in-html)
+- [The List Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-list-element-in-html)
 </details>
 
 ### The HTML Document
