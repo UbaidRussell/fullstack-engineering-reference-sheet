@@ -130,6 +130,6 @@ The anchor element is used to create a link in HTML. Here is an example of how t
 <a href="https://www.google.com">This is a link</a>
 ```
 This outputs the following result:
-<a href="https://www.google.com">This is a link</a>
+<a href="https://www.google.com">This is a link</a> (Goes to google.com)
 
 
