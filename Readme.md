@@ -24,6 +24,7 @@ HTML is a markup language that is used to create the structure of a website. HTM
 - [The List Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-list-element-in-html)
 - [The Image Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-image-element-in-html)
 - [Anchor Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-anchor-element-in-html)
+- [The Div Element in HTML](
 </details>
 
 ### The HTML Document
@@ -132,4 +133,21 @@ The anchor element is used to create a link in HTML. Here is an example of how t
 This outputs the following result:
 <a href="https://www.google.com">This is a link</a> (Goes to google.com)
 
+
+### The Div Element in HTML
+The div element is used to create a division in HTML. It is used to group elements together. Here is an example of how to use the div element in HTML:
+
+```html
+<div>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph</p>
+</div>
+```
+This outputs the following result:
+<div>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph</p>
+</div>
+
+You see, the div element isn't like other elements, it doesn't have any special properties, it is just used to group elements together. It is used to group elements together so that you can style them together. We'll get into styling in the CSS section.
 
