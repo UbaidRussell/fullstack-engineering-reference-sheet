@@ -25,6 +25,7 @@ HTML is a markup language that is used to create the structure of a website. HTM
 - [The Image Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-image-element-in-html)
 - [Anchor Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-anchor-element-in-html)
 - [The Div Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#this-is-a-heading)
+- [The Span Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-span-element-in-html)
 </details>
 
 ### The HTML Document
