@@ -151,3 +151,14 @@ This outputs the following result:
 
 You see, the div element isn't like other elements, it doesn't have any special properties, it is just used to group elements together. It is used to group elements together so that you can style them together. We'll get into styling in the CSS section.
 
+### The Span Element in HTML
+The span element is used to create a span in HTML. It is used to group elements together. Here is an example of how to use the span element in HTML:
+
+```html
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+```
+This outputs the following result:
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+
+You see, the span element isn't like other elements, it doesn't have any special properties, it is just used to group elements together. It is used to group elements together so that you can style them together. We'll get into styling in the CSS section.
+
