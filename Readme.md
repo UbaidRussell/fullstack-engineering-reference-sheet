@@ -16,7 +16,7 @@
 HTML is a markup language that is used to create the structure of a website. HTML stands for Hyper Text Markup Language. This language is used to make the skeleton of a website. It is the foundation of all websites on the internet. It creates things like the headings, paragraphs, lists, tables, forms, images, videos, audios, links, buttons and much more. HTML is the first thing that you need to learn in order to become a full stack engineer. HTML is a very easy  to learn and it is very easy to understand and use. When a website is made with nothing but HTML, it looks like [this](https://info.cern.ch/hypertext/WWW/TheProject.html): ![This is the first website that was ever created and it was made with HTML only.](./images/Webiste%20with%20only%20HTML.png)
 
 <details>
-<summary width="80vw"> *You can use this dropdown to direct yourself to the section of HTML you want to learn about.*</summary>
+<summary width="80vw"> _You can use this dropdown to direct yourself to the section of HTML you want to learn about._</summary>
 
 - [The HTML Document](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-html-document)
 - [The heading Element in HTML](https://github.com/UbaidRussell/fullstack-engineering-reference-sheet#the-heading-element-in-html)
