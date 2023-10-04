@@ -166,3 +166,7 @@ This outputs the following result:
 </span>
 
 You see, the span element isn't like other elements, it doesn't have any special properties, it is just used to group elements together. It is used to group elements together so that you can style them together. We'll get into styling in the CSS section.
+
+## CSS
+
+CSS is a styling language that is used to style the HTML elements of a website. CSS stands for Cascading Style Sheets. It is used to style the HTML elements of a website. It is used to style things like the font, color, size, position, background, border, margin, padding and much more. CSS is the second thing that you need to learn in order to become a full stack engineer. CSS is a very easy  to learn and it is very easy to understand and use. When a website is made with HTML and CSS, it looks like [this](https://www.w3schools.com/css/tryit.asp?filename=trycss_default): ![This is a website that was made with HTML and CSS only.](./images/Website%20with%20HTML%20and%20CSS.png)
