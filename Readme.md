@@ -1,5 +1,7 @@
 # Fullstack Engineering Reference Sheet
 
+The most important thing about being a fullstack engineer is to make sure you google!
+
 ## Table of contents
 
 - [What is Full stack devlopment?](##What-is-Full-stack-devlopment?)
