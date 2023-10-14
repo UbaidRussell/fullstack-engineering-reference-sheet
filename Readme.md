@@ -1,6 +1,6 @@
 # Fullstack Engineering Reference Sheet
 
-The most important thing about being a fullstack engineer is to make sure you always google and do your own research!
+The most important thing about being a fullstack engineer is to make sure you always your own research!
 
 ## Table of contents
 
